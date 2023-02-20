@@ -12,10 +12,10 @@ The goal of this project is to create a pipeline which takes an input such as a 
 (iii) Locate conversations in large chunks of text and the subject who engage in the conversation
 
 ## Methods
-- Data Source: I will be using movie scripts from the Internet Movie Script Database (https://imsdb.com/)\
-- Data Cleaning: The script will be put into formats that pairs each line with character names and their gender\
-- Exploratory Data Analysis: tf-idf\
-- Train the model to predict gender of the speaker\
-- Train the algorithm to determine whether the conversation is meaningful with dependency parsing\
+- Data Source: I will be using movie scripts from the Internet Movie Script Database (https://imsdb.com/)
+- Data Cleaning: The script will be put into formats that pairs each line with character names and their gender
+- Exploratory Data Analysis: tf-idf
+- Train the model to predict gender of the speaker
+- Train the algorithm to determine whether the conversation is meaningful with dependency parsing
 - Write the pipeline 
 
